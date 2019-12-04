@@ -56,10 +56,24 @@ Faster software development has become a competitive advantage for companies. Th
 
 ## Sign in to OCI Console and create VCN
 
+<p class="note-container">Sign in using your tenant name, user name and password. Use the login option under **Oracle Cloud Infrastructure**</p>
+<p class="accessDetails-container">
+
 * **Tenant Name:** {{Cloud Tenant}}
+
 * **User Name:** {{User Name}}
+
 * **Password:** {{Password}}
+
 * **Compartment:**{{Compartment}}
+</p>
+
+<p class="ideatip-container">From the OCI Services menu, Click **Virtual Cloud Network** under Networking and Click **Create Virtual Cloud Network**</p>
+
+<p class="examTip-container">Select the compartment assigned to you from drop down menu on left part of the screen</p>
+
+<p class="funFact-container">Click the Apps icon in the toolbar and select  Git-Bash to open a terminal window.</p>
+
 
 1. Sign in using your tenant name, user name and password. Use the login option under **Oracle Cloud Infrastructure**
 
