@@ -57,6 +57,7 @@ Faster software development has become a competitive advantage for companies. Th
 ## Sign in to OCI Console and create VCN
 
 <p class="note-container">Sign in using your tenant name, user name and password. Use the login option under **Oracle Cloud Infrastructure**</p>
+
 <p class="accessDetails-container">
 
 * **Tenant Name:** {{Cloud Tenant}}
